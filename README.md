@@ -1,7 +1,7 @@
 # EyeNet - Intelligent Network Management System
 
 <div align="center">
-  <img src="docs/assets/images/EyeNet-Light-Mode.svg" alt="EyeNet Logo" width="400"/>
+  <img src="docs/assets/images/EyeNet-Dark-Mode.svg" alt="EyeNet Logo" width="400"/>
   <p><em>Advanced Network Management with ML-Powered Analytics</em></p>
 </div>
 
